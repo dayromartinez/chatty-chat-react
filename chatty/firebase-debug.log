@@ -1,0 +1,21 @@
+[debug] [2022-01-04T06:30:46.911Z] ----------------------------------------------------------------------
+[debug] [2022-01-04T06:30:46.914Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\57301\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-01-04T06:30:46.914Z] CLI Version:   10.0.1
+[debug] [2022-01-04T06:30:46.915Z] Platform:      win32
+[debug] [2022-01-04T06:30:46.915Z] Node Version:  v14.16.0
+[debug] [2022-01-04T06:30:46.916Z] Time:          Tue Jan 04 2022 01:30:46 GMT-0500 (hora estándar de Colombia)
+[debug] [2022-01-04T06:30:46.916Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-04T06:30:46.926Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-01-04T06:30:46.927Z] > authorizing via signed-in user (djmd96@hotmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\57301\Desktop\Repositorios Henry\Sofka\Ejercicios React\chatty-chat-react\chatty
+
